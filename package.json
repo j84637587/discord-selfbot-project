@@ -1,6 +1,13 @@
 {
   "dependencies": {
-    "discord.js-selfbot-v13": "^2.3.62",
+    "discord.js-selfbot-v13": "^2.3.71",
     "dotenv": "^16.0.1"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
   }
 }
