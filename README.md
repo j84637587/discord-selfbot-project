@@ -17,7 +17,8 @@ A project to implement discord selfbot.
 
 TODO:
 
-- [x] Startup message
+- [x] Startup Message
 - [x] Config file .env
 - [x] Type `>IP` at specific channel to get server ip
+- [x] Rich Presence Feature
 - [ ] Unit Tests
